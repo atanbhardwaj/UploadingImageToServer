@@ -1,0 +1,20 @@
+#firstdiv
+{
+	position: relative;
+	left: 34%;
+	padding: 30px;
+	background-color: orange;
+	width:300px;
+	border-style: dotted;
+	margin-top: 10px;
+	height: 320px;
+}
+#firstdiv div
+{
+	margin: 10px;
+}
+input, label
+{
+	margin: 15px;
+	display: block;
+}
